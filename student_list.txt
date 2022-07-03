@@ -1,0 +1,372 @@
+--------------------------- New Student Details -----------------------
+ID: ML200
+Name: Myra Lugwiri
+Email: m.lugwiri@agblschool.com
+Role: Student
+Date of birth: 13th October
+Age: 21
+Gender: Female
+Parent name: Jane
+Parent contact: +254784857890
+Address: Kenya
+Date of Admission: 30th June
+--------------------------- New Student Details -----------------------
+ID: IB200
+Name: Irene Busah
+Email: i.busah@agblschool.com
+Role: Student
+Date of birth: 5th May 2000
+Age: 21
+Gender: Female
+Parent name: Joseph Busah
+Parent contact: +233784857890
+Address: Kumasi
+Date of Admission: 30th June 2020
+--------------------------- New Student Details -----------------------
+ID: IB200
+Name: Irene Busah
+Email: i.busah@agblschool.com
+Role: Student
+Date of birth: 5th May 2000
+Age: 21
+Gender: Female
+Parent name: Joseph Busah
+Parent contact: +233784857890
+Address: Kumasi
+Date of Admission: 30th June 2020
+--------------------------- New Student Details -----------------------
+ID: IB200
+Name: Irene Busah
+Email: i.busah@agblschool.com
+Role: Student
+Date of birth: 5th May 2000
+Age: 21
+Gender: Female
+Parent name: Joseph Busah
+Parent contact: +233784857890
+Address: Kumasi
+Date of Admission: 30th June 2020
+--------------------------- New Student Details -----------------------
+ID: IB200
+Name: Irene Busah
+Email: i.busah@agblschool.com
+Role: Student
+Date of birth: 5th May 2000
+Age: 21
+Gender: Female
+Parent name: Joseph Busah
+Parent contact: +233784857890
+Address: Kumasi
+Date of Admission: 30th June 2020
+--------------------------- New Student Details -----------------------
+ID: IB200
+Name: Irene Busah
+Email: i.busah@agblschool.com
+Role: Student
+Date of birth: 5th May 2000
+Age: 21
+Gender: Female
+Parent name: Joseph Busah
+Parent contact: +233784857890
+Address: Kumasi
+Date of Admission: 30th June 2020
+--------------------------- New Student Details -----------------------
+ID: IB200
+Name: Irene Busah
+Email: i.busah@agblschool.com
+Role: Student
+Date of birth: 5th May 2000
+Age: 21
+Gender: Female
+Parent name: Joseph Busah
+Parent contact: +233784857890
+Address: Kumasi
+Date of Admission: 30th June 2020
+--------------------------- New Student Details -----------------------
+ID: IB200
+Name: Irene Busah
+Email: i.busah@agblschool.com
+Role: Student
+Date of birth: 5th May 2000
+Age: 21
+Gender: Female
+Parent name: Joseph Busah
+Parent contact: +233784857890
+Address: Kumasi
+Date of Admission: 30th June 2020
+--------------------------- New Student Details -----------------------
+ID: IB200
+Name: Irene Busah
+Email: i.busah@agblschool.com
+Role: Student
+Date of birth: 5th May 2000
+Age: 21
+Gender: Female
+Parent name: Joseph Busah
+Parent contact: +233784857890
+Address: Kumasi
+Date of Admission: 30th June 2020
+--------------------------- New Student Details -----------------------
+ID: IB200
+Name: Irene Busah
+Email: i.busah@agblschool.com
+Role: Student
+Date of birth: 5th May 2000
+Age: 21
+Gender: Female
+Parent name: Joseph Busah
+Parent contact: +233784857890
+Address: Kumasi
+Date of Admission: 30th June 2020
+--------------------------- New Student Details -----------------------
+ID: IB200
+Name: Irene Busah
+Email: i.busah@agblschool.com
+Role: Student
+Date of birth: 5th May 2000
+Age: 21
+Gender: Female
+Parent name: Joseph Busah
+Parent contact: +233784857890
+Address: Kumasi
+Date of Admission: 30th June 2020
+--------------------------- New Student Details -----------------------
+ID: IB200
+Name: Irene Busah
+Email: i.busah@agblschool.com
+Role: Student
+Date of birth: 5th May 2000
+Age: 21
+Gender: Female
+Parent name: Joseph Busah
+Parent contact: +233784857890
+Address: Kumasi
+Date of Admission: 30th June 2020
+--------------------------- New Student Details -----------------------
+ID: IB200
+Name: Irene Busah
+Email: i.busah@agblschool.com
+Role: Student
+Date of birth: 5th May 2000
+Age: 21
+Gender: Female
+Parent name: Joseph Busah
+Parent contact: +233784857890
+Address: Kumasi
+Date of Admission: 30th June 2020
+--------------------------- New Student Details -----------------------
+ID: IB200
+Name: Irene Busah
+Email: i.busah@agblschool.com
+Role: Student
+Date of birth: 5th May 2000
+Age: 21
+Gender: Female
+Parent name: Joseph Busah
+Parent contact: +233784857890
+Address: Kumasi
+Date of Admission: 30th June 2020
+--------------------------- New Student Details -----------------------
+ID: IB200
+Name: Irene Busah
+Email: i.busah@agblschool.com
+Role: Student
+Date of birth: 5th May 2000
+Age: 21
+Gender: Female
+Parent name: Joseph Busah
+Parent contact: +233784857890
+Address: Kumasi
+Date of Admission: 30th June 2020
+--------------------------- New Student Details -----------------------
+ID: IB200
+Name: Irene Busah
+Email: i.busah@agblschool.com
+Role: Student
+Date of birth: 5th May 2000
+Age: 21
+Gender: Female
+Parent name: Joseph Busah
+Parent contact: +233784857890
+Address: Kumasi
+Date of Admission: 30th June 2020
+--------------------------- New Student Details -----------------------
+ID: IB200
+Name: Irene Busah
+Email: i.busah@agblschool.com
+Role: Student
+Date of birth: 5th May 2000
+Age: 21
+Gender: Female
+Parent name: Joseph Busah
+Parent contact: +233784857890
+Address: Kumasi
+Date of Admission: 30th June 2020
+--------------------------- New Student Details -----------------------
+ID: IB200
+Name: Irene Busah
+Email: i.busah@agblschool.com
+Role: Student
+Date of birth: 5th May 2000
+Age: 21
+Gender: Female
+Parent name: Joseph Busah
+Parent contact: +233784857890
+Address: Kumasi
+Date of Admission: 30th June 2020
+--------------------------- New Student Details -----------------------
+ID: IB200
+Name: Irene Busah
+Email: i.busah@agblschool.com
+Role: Student
+Date of birth: 5th May 2000
+Age: 21
+Gender: Female
+Parent name: Joseph Busah
+Parent contact: +233784857890
+Address: Kumasi
+Date of Admission: 30th June 2020
+--------------------------- New Student Details -----------------------
+ID: IB200
+Name: Irene Busah
+Email: i.busah@agblschool.com
+Role: Student
+Date of birth: 5th May 2000
+Age: 21
+Gender: Female
+Parent name: Joseph Busah
+Parent contact: +233784857890
+Address: Kumasi
+Date of Admission: 30th June 2020
+--------------------------- New Student Details -----------------------
+ID: IB200
+Name: Irene Busah
+Email: i.busah@agblschool.com
+Role: Student
+Date of birth: 5th May 2000
+Age: 21
+Gender: Female
+Parent name: Joseph Busah
+Parent contact: +233784857890
+Address: Kumasi
+Date of Admission: 30th June 2020
+--------------------------- New Student Details -----------------------
+ID: IB200
+Name: Irene Busah
+Email: i.busah@agblschool.com
+Role: Student
+Date of birth: 5th May 2000
+Age: 21
+Gender: Female
+Parent name: Joseph Busah
+Parent contact: +233784857890
+Address: Kumasi
+Date of Admission: 30th June 2020
+--------------------------- New Student Details -----------------------
+ID: IB200
+Name: Irene Busah
+Email: i.busah@agblschool.com
+Role: Student
+Date of birth: 5th May 2000
+Age: 21
+Gender: Female
+Parent name: Joseph Busah
+Parent contact: +233784857890
+Address: Kumasi
+Date of Admission: 30th June 2020
+--------------------------- New Student Details -----------------------
+ID: IB200
+Name: Irene Busah
+Email: i.busah@agblschool.com
+Role: Student
+Date of birth: 5th May 2000
+Age: 21
+Gender: Female
+Parent name: Joseph Busah
+Parent contact: +233784857890
+Address: Kumasi
+Date of Admission: 30th June 2020
+--------------------------- New Student Details -----------------------
+ID: IB200
+Name: Irene Busah
+Email: i.busah@agblschool.com
+Role: Student
+Date of birth: 5th May 2000
+Age: 21
+Gender: Female
+Parent name: Joseph Busah
+Parent contact: +233784857890
+Address: Kumasi
+Date of Admission: 30th June 2020
+--------------------------- New Student Details -----------------------
+ID: IB200
+Name: Irene Busah
+Email: i.busah@agblschool.com
+Role: Student
+Date of birth: 5th May 2000
+Age: 21
+Gender: Female
+Parent name: Joseph Busah
+Parent contact: +233784857890
+Address: Kumasi
+Date of Admission: 30th June 2020
+--------------------------- New Student Details -----------------------
+ID: IB200
+Name: Irene Busah
+Email: i.busah@agblschool.com
+Role: Student
+Date of birth: 5th May 2000
+Age: 21
+Gender: Female
+Parent name: Joseph Busah
+Parent contact: +233784857890
+Address: Kumasi
+Date of Admission: 30th June 2020
+--------------------------- New Student Details -----------------------
+ID: IB200
+Name: Irene Busah
+Email: i.busah@agblschool.com
+Role: Student
+Date of birth: 5th May 2000
+Age: 21
+Gender: Female
+Parent name: Joseph Busah
+Parent contact: +233784857890
+Address: Kumasi
+Date of Admission: 30th June 2020
+--------------------------- New Student Details -----------------------
+ID: IB200
+Name: Irene Busah
+Email: i.busah@agblschool.com
+Role: Student
+Date of birth: 5th May 2000
+Age: 21
+Gender: Female
+Parent name: Joseph Busah
+Parent contact: +233784857890
+Address: Kumasi
+Date of Admission: 30th June 2020
+--------------------------- New Student Details -----------------------
+ID: IB200
+Name: Irene Busah
+Email: i.busah@agblschool.com
+Role: Student
+Date of birth: 5th May 2000
+Age: 21
+Gender: Female
+Parent name: Joseph Busah
+Parent contact: +233784857890
+Address: Kumasi
+Date of Admission: 30th June 2020
+--------------------------- New Student Details -----------------------
+ID: IB200
+Name: Irene Busah
+Email: i.busah@agblschool.com
+Role: Student
+Date of birth: 5th May 2000
+Age: 21
+Gender: Female
+Parent name: Joseph Busah
+Parent contact: +233784857890
+Address: Kumasi
+Date of Admission: 30th June 2020
